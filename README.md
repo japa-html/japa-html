@@ -4,6 +4,7 @@
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS]https://img.shields.io/badge/logo-javascript-blue?logo=css
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=japa-html&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=japa-html&theme=transparent&hide_border=true)<br/>
