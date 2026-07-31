@@ -11,3 +11,10 @@ Uma frase qualquer...
 
 Se alguém fora da nossa turma ler isso, ignore tudo, aqui tudo é lindo, cheio de docinhos e florzinhas!!!
 
+NO CMD:
+cd C:\Program Files (x86)\EasyPHP-Devserver-17\eds-www
+
+git clone https://github.com/ggfrancagg/Gamernac.git
+
+
+
